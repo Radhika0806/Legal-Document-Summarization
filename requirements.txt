@@ -1,0 +1,12 @@
+pandas
+tqdm
+matplotlib
+seaborn
+WordCloud
+nltk
+networkx
+datasets
+transformers
+evaluate
+rouge_score
+torch 
