@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+*.egg-info/
+results_bart/
+logs/
+# Large model weights (exceeds GitHub 100MB limit)
+*.safetensors

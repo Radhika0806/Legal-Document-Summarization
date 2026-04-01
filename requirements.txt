@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+datasets
+evaluate
+rouge-score
+tqdm
+pandas
+matplotlib
+seaborn
+wordcloud
