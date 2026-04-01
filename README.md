@@ -70,6 +70,14 @@ Legal Document Summarization/
 |-- requirements.txt                 # Python dependencies
 ```
 
+## Screenshots
+
+| Input Interface | Generated Summary |
+|----------------|-------------------|
+| ![Input](screenshots/input.png) | ![Summary](screenshots/summary.png) |
+
+> **To add screenshots:** Run `cd app && streamlit run app.py`, paste a legal document, click Summarize, and save screenshots in the `screenshots/` folder.
+
 ## Training Configuration
 
 | Parameter        | Value                   |
